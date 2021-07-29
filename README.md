@@ -2,7 +2,7 @@
 
 ### &nbsp;About Me
 
-- 🏠 East Kalimantan.
+- 🏠 East Borneo.
 
 ### &nbsp;Personal Stuffs
 

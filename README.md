@@ -1,8 +1,4 @@
-## 👋 &nbsp;Hello! I'm Fawwaz
-
-### &nbsp;About Me
-
-- 🏠 East Borneo.
+## 👋 &nbsp;Hello! I'm Zekais
 
 ### &nbsp;Personal Stuffs
 

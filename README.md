@@ -2,9 +2,9 @@
 
 ### &nbsp;Personal Stuffs
 
-- 💻 I’m currently learning JavaScript.
+- 💻 I’m currently learning JavaScript, Typescript & Golang.
 
-- ✨ Interested in Web development.
+- ✨ Interested in Back-End development.
 
 ### &nbsp;Languages & Tools:
 
